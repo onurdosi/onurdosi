@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onurdosi
-- 👀 I’m interested in games
-- 🌱 I’m currently learning pygame and teamcoding
-- 💞️ I’m looking to collaborate on simple gaming codes
+- 👀 I’m interested in Biology
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on simple codes about Biotechnology
 - 📫 How to reach my email: onurdosiyev@gmail.com
 
 <!---
